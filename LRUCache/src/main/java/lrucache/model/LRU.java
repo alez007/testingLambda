@@ -1,4 +1,4 @@
-package LRUCache.model;
+package lrucache.model;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

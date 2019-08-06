@@ -1,7 +1,7 @@
-package LRUCache;
+package lrucache;
 
-import LRUCache.model.Env;
-import LRUCache.model.LRU;
+import lrucache.model.Env;
+import lrucache.model.LRU;
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
 import com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent;

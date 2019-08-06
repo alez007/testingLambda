@@ -1,4 +1,4 @@
-package LRUCache;
+package lrucache;
 
 import com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent;
 import org.junit.Assert;

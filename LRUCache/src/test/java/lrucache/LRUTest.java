@@ -1,6 +1,6 @@
-package LRUCache;
+package lrucache;
 
-import LRUCache.model.LRU;
+import lrucache.model.LRU;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
